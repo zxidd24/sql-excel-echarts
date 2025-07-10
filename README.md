@@ -254,7 +254,7 @@ const newChartOption = {
 
 ## 📞 支持
 - 开发者：张哲溪
-test test
+
 如有问题或建议，请通过以下方式联系：
 - 提交GitHub Issue
 - 发送邮件至项目维护者：z1124340034@sina.com
